@@ -10,3 +10,9 @@
 
 ![ashish suman pic](https://ashishsuman.me/assets/images/1687891321401.png)
 
+## code for commit
+
+```bash
+git commit -m "frsit"
+
+```
